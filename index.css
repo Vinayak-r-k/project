@@ -1,0 +1,43 @@
+*{
+
+    margin: 0px;
+    padding: 0px;                                   /*use in every webpage*/
+}
+
+.head{
+   
+    background-color: rgb(181, 181, 0);
+  
+   padding: 20px;
+                                                      /*remove underline*/
+    
+
+}
+
+body{
+    background-color: rgb(120, 120, 0);
+    text-align: center;
+}
+h1,h3
+{
+    color: white;
+  
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none; 
+    padding: 20px;
+    
+}
+
+.body{
+    margin-top: 30px;
+}

@@ -1,0 +1,29 @@
+a{
+    color: white;
+    text-decoration: none; 
+    padding: 20px;
+    
+}
+.head{
+   
+    background-color: rgb(181, 181, 0);
+  
+   padding: 20px;
+}
+*{
+
+    margin: 0px;
+    padding: 0px;                                   /*use in every webpage*/
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1615958354408-c15ad934a549?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zmxvd2VycyUyMGRlc2t0b3B8ZW58MHx8MHx8fDA%3D);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+p{
+    padding-top: 100px;
+    width: 200px;
+    margin: auto;
+    color: white;
+}
